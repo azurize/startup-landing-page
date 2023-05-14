@@ -5,7 +5,7 @@ html {
   font-family: "Montserrat", sans-serif;
 
   /* Responsive background image */
-  background: url(header.jpg) no-repeat center center fixed;
+  background: url(redrock.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -20,8 +20,8 @@ h1 {
 
 hr {
   margin: 20px auto;
-  color: #E95420;
-  border: 3px solid #E95420;
+  color: #4285F4;
+  border: 3px solid #4285F4;
   border-radius: 300px;
   max-width: 65px;
   opacity: 1;  
@@ -38,13 +38,13 @@ hr {
 }
 
 .btn-primary {
-  background-color: #E95420;
-  border-color: #E95420;
+  background-color: #4285F4;
+  border-color: #4285F4;
 }
 
 .btn-primary:hover {
-  background-color: #AF3F18;
-  border-color: #AF3F18;
+  background-color: #3264B7;
+  border-color: #3264B7;
   border-width: 4px;
 }
 
